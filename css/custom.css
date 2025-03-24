@@ -1,0 +1,12 @@
+/*
+Custom Css
+*/
+
+.logo {
+    width: 200px;
+    margin-top: 10px;
+  }
+
+.img-fluid {
+    filter: contrast(0.9);
+}

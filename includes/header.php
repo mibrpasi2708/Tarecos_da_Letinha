@@ -8,14 +8,14 @@ if (session_status() === PHP_SESSION_NONE) {
 <html>
 <head>
     <title>My PHP Website</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="../css/styles.css">
 </head>
 <body>
     <header>
-        <img src="assets/Tarecos_og.png" alt="Logo" class="logo">
+        <img src="../assets/Tarecos_og.png" alt="Logo" class="logo">
         <nav>
             <ul>
-                <li><a href="index.php">Home</a></li>
+                <li><a href="../index.php">Home</a></li>
                 <li><a href="products.php">Products</a></li>
                 <li><a href="contacts.php">Contact</a></li>
                 <li><a href="about.php">About Us</a></li>
